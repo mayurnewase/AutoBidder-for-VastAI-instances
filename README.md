@@ -1,5 +1,5 @@
 # AutoBidder-for-VastAI-instances
-Bid automatically on gpu instances for cheapest prices
+Bid automatically on gpu instances for cheapest prices to deploy ml models
 
 This project contain script to bid on vast ai (https://vast.ai) and maintain at lease one instance running to deploy deep learning models on gpu instances.
 
